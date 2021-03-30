@@ -1,3 +1,3 @@
 # test-repo
 test-repo
-Garo
+Garo Malko

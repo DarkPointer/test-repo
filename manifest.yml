@@ -1,5 +1,8 @@
+---
 applications:
-- name: myapp
+- path: .
+  name: test-repo
+  buildpack: sdk-for-nodejs
+  memory: 256M
+  instances: 1
   random-route: true
-  path: build
-  memory: 128M

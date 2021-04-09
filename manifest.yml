@@ -1,6 +1,6 @@
 ---
 applications:
-- path: .
+- path: ./build
   name: test-repo
   buildpacks:
     - staticfile_buildpack
